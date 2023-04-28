@@ -1,0 +1,12 @@
+.formulario {
+    color: mediumpurple;
+    border: solid;
+    margin: 30% ;
+    text-align: center;
+    padding: 10%;
+    background-image: url(./img/red-and-dark-blue-shaded-gradient-background-free-photo.jpg);
+}
+
+body {
+    background: darkblue
+}
